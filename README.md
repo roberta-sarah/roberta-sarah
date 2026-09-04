@@ -94,11 +94,11 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="linkedin.com/in/roberta-sarah">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="SEU_EMAIL">
+<a href="mailto:rlimadosreis@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
