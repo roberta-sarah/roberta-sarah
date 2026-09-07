@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [SEU NOME]
+# 👋 Olá!
 
 💻 Estudante de tecnologia apaixonada por desenvolvimento e inovação.
 
