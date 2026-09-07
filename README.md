@@ -72,23 +72,6 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 </div>
 
----
-
-## 📌 Projetos
-
-🔹 **Projeto 01**
-
-> Descrição curta do projeto.
-
-🔹 **Projeto 02**
-
-> Descrição curta do projeto.
-
-🔹 **Projeto 03**
-
-> Descrição curta do projeto.
-
----
 
 ## 📫 Onde me encontrar
 
