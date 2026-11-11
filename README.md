@@ -1,4 +1,4 @@
-# 👋 Olá!
+#  Olá!
 
 💻 Estudante de tecnologia apaixonada por desenvolvimento e inovação.
 
@@ -8,7 +8,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -16,11 +16,11 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-### 🛠️ Ferramentas
+###  Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### 🧠 Estudando atualmente
+###  Estudando atualmente
 
 <img src="https://skillicons.dev/icons?i=ai" />
 
@@ -28,7 +28,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 ---
 
-## 🌱 Atualmente aprendendo
+##  Atualmente aprendendo
 
 * 🤖 Inteligência Artificial
 * 🔐 Cybersecurity
@@ -39,7 +39,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 ---
 
-## 💡 Sobre mim
+##  Sobre mim
 
 ```text
 💻 Desenvolvimento
@@ -72,7 +72,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 <div align="center">
 
-### ✨ "Sempre aprendendo. Sempre evoluindo. Sempre criando."
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blueviolet)
 
