@@ -52,26 +52,7 @@ Atualmente estou desenvolvendo minhas habilidades em **desenvolvimento de softwa
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 ---
-
-## 🔥 Minhas contribuições
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=tokyonight)
-
-</div>
-
 
 ## 📫 Onde me encontrar
 
