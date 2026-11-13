@@ -12,7 +12,7 @@ Construo soluções com IA para problemas reais de negócio (agentes, automaçõ
 
 | 🤖 Inteligência Artificial | 🔐 Segurança e Privacidade |
 |---|---|
-| Agentes de IA e RAG | Privacidade de dados e LGPD |
+| Agentes de IA, orquestração e RAG | Privacidade de dados e LGPD |
 | Prompt engineering | Relatórios de impacto (DPIA) |
 | Automações com n8n e integrações com APIs | Gestão segura de chaves e credenciais |
 | Análise de dados com IA | Riscos e uso responsável de IA |
@@ -33,7 +33,9 @@ Construo soluções com IA para problemas reais de negócio (agentes, automaçõ
 ### 🍔 [Classificador de Avaliações de Delivery com IA](https://github.com/roberta-sarah/classificador-avaliacoes-ia)
 Automação no **n8n** que envia avaliações para a **API do Claude** e classifica cada uma por problema, sentimento e urgência. Riscos à saúde são marcados automaticamente como **urgência alta**.
 
-`n8n` `API do Claude` `prompt engineering` `JavaScript`
+🤖 **Versão 2: orquestração de 3 agentes.** Um coordenador roteia os riscos à saúde para um **agente de alerta interno** e o restante para um **agente de resposta ao cliente**, com guardrails (nenhuma promessa de reembolso).
+
+`n8n` `API do Claude` `orquestração de agentes` `prompt engineering` `JavaScript`
 
 🔐 **Segurança no projeto:** chave de API guardada em credencial (nunca no código), credencial restrita ao domínio da API, revogação imediata de uma chave exposta e remoção de identificadores internos antes de publicar.
 
@@ -75,7 +77,7 @@ Dashboard web **publicado** com indicadores, gráficos e filtros dos resultados 
 ## 📚 Aprendendo agora
 
 - 🛡️ **Segurança em aplicações de IA:** prompt injection, vazamento de dados e controle de acesso
-- 🤖 Agentes de IA e orquestração
+- 🤖 Orquestração de agentes com múltiplos modelos
 - 🔐 Fundamentos de cybersecurity
 
 ---
